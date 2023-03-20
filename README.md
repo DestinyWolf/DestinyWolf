@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MaikeOli
 - 👀 I’m interested in study progamming 
-- 🌱 I’m currently learning python, html and js Script
+- 🌱 I’m currently learning C, C++, and Js
+- 🐍 I'm a python developer
 - 💞️ I’m looking to collaborate on anything in this moment
 - 📫 How to reach me email: maikoy606@hotmail.com or im my discord Maike Oli#7960.
 
